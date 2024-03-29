@@ -1,0 +1,4 @@
+.buttonContainer {
+    display: inline-table;
+    max-width: 200px;
+}

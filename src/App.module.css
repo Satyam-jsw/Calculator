@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+    border: solid 2px black;
+    width: 300px;
+    height: 400px;
+}
+
+.box {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 0;
+    height: 100vh;
+    margin: 0;
+}
